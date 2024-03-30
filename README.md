@@ -1,0 +1,1 @@
+### Shoppinglist is an one-page application developed by Ajax and Angular. Users can add, edit and delete any items on their shopping list. 
